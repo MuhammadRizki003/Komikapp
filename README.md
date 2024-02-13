@@ -1,6 +1,6 @@
 # Komikapp - Discover your favourite manga
 Komikapp is an unofficial manga reader app available on iOS and Android.
-This app uses the unofficial [komiku.id](https://github.com/MuhammadRizki003/komikku-api) API  
+This app uses the unofficial [komiku.id](https://github.com/MuhammadRizki003/komikku-api) API <br>
 If you want to contribute on this project, you can fork this project and pull request.
 
 ## Features
@@ -11,9 +11,15 @@ If you want to contribute on this project, you can fork this project and pull re
 - [x] add to favourite(loginrequired)
 - [x] search manga by name
 
+## Download Apk
+> [Komikapp.apk](https://github.com/MuhammadRizki003/Komikapp/releases/tag/v1.0)
+
 ## ScreenShoot
 
-![alt text](home.jpg) ![alt text](readingpage.jpg) ![alt text](findbyname.jpg) ![alt text](mangadetail2.jpg) ![alt text](mangadetail.jpg) ![alt text](login.jpg) ![alt text](register.jpg) ![alt text](genrelist.jpg) ![alt text](profile.jpg)
+<img src="home.jpg" width="30%"><img src="login.jpg" width="30%">
+<img src="readingpage.jpg" width="30%"><img src="register.jpg" width="30%">
+<img src="findbyname.jpg" width="30%"><img src="genrelist.jpg" width="30%">
+<img src="mangadetail2.jpg" width="30%"><img src="profile.jpg" width="30%">
 
 ## Build Setup
 ``` bash
