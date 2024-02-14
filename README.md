@@ -1,6 +1,6 @@
 # Komikapp - Discover your favourite manga
-Komikapp is an unofficial manga reader app available on iOS and Android.
-This app uses the unofficial [komiku.id](https://github.com/MuhammadRizki003/komikku-api) API <br>
+Komikapp is an un-official manga reader app available on iOS and Android,
+This app uses the un-official [komiku.id](https://github.com/MuhammadRizki003/komikku-api) API <br>
 If you want to contribute on this project, you can fork this project and pull request.
 
 ## Features
@@ -8,7 +8,7 @@ If you want to contribute on this project, you can fork this project and pull re
 - [x] manga update
 - [x] manga detail
 - [x] genre list
-- [x] add to favourite(loginrequired)
+- [x] add to favourite(login required)
 - [x] search manga by name
 
 ## Download Apk
@@ -16,10 +16,10 @@ If you want to contribute on this project, you can fork this project and pull re
 
 ## ScreenShoot
 
-<img src="home.jpg" width="30%"><img src="login.jpg" width="30%">
-<img src="readingpage.jpg" width="30%"><img src="register.jpg" width="30%">
-<img src="findbyname.jpg" width="30%"><img src="genrelist.jpg" width="30%">
-<img src="mangadetail2.jpg" width="30%"><img src="profile.jpg" width="30%">
+<img src="home.jpg" width="30%"> <img src="login.jpg" width="30%">
+<img src="readingpage.jpg" width="30%"> <img src="register.jpg" width="30%">
+<img src="findbyname.jpg" width="30%"> <img src="genrelist.jpg" width="30%">
+<img src="mangadetail2.jpg" width="30%"> <img src="profile.jpg" width="30%">
 
 ## Build Setup
 ``` bash
